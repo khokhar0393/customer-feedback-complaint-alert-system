@@ -12,11 +12,11 @@ An n8n-powered customer feedback automation that validates submissions, classifi
 
 ### 2. Invalid Rating Handling
 
-![Invalid Rating Handling](./screenshots/02-invalid-rating-handling.png)
+![Invalid Rating Handling](./screenshots/Invalid Rating Handling.png)
 
 ### 3. Google Sheets Feedback Records
 
-![Google Sheets Feedback Records](./screenshots/03-google-sheets-feedback-records.png)
+![Google Sheets Feedback Records](./screenshots/Google Sheets Feedback Records.png)
 
 ### 4. Negative Feedback Customer Response
 

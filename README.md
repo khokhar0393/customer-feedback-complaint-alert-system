@@ -8,7 +8,7 @@ An n8n-powered customer feedback automation that validates submissions, classifi
 
 ### 1. Workflow Overview
 
-![Workflow Overview](./screenshots/01-workflow-overview.png)
+![Workflow Overview](./screenshots/01-workflow-overview.png.png)
 
 ### 2. Invalid Rating Handling
 
